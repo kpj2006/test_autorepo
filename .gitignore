@@ -1,0 +1,5 @@
+.env
+.vscode/
+__pycache__/
+model/
+vector_db/
