@@ -1,0 +1,32 @@
+# PDF Processing
+PyMuPDF==1.23.26
+pdfplumber==0.10.3
+
+# Text Processing and Chunking
+langchain>=0.1.14
+langchain-community>=0.0.38
+
+# Vector Embeddings
+sentence-transformers==2.2.2
+transformers==4.30.2
+
+# Vector Databases
+faiss-cpu==1.7.4
+chromadb==0.4.22
+
+# LLM APIs
+groq==0.4.1
+requests==2.31.0
+
+# Utilities
+numpy==1.26.4
+pandas==2.0.3
+python-dotenv==1.0.0
+tqdm==4.66.1
+
+# Optional: Web search fallback
+google-search-results==2.4.2
+
+# CLI enhancement
+rich==13.7.0
+click==8.1.7
